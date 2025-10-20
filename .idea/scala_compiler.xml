@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="COMP30950,COMP30950.assignment1,COMP30950.scalaLab1,assignment1_MPP" />
+  </component>
+</project>
